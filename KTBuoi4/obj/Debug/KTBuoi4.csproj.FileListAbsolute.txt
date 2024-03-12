@@ -1,0 +1,12 @@
+D:\LeThanhPhong_HuynhVanTan_MinhPhu\LeThanhPhong_HuynhVanTan_MinhPhu\KTBuoi4\bin\Debug\KTBuoi4.exe.config
+D:\LeThanhPhong_HuynhVanTan_MinhPhu\LeThanhPhong_HuynhVanTan_MinhPhu\KTBuoi4\bin\Debug\KTBuoi4.exe
+D:\LeThanhPhong_HuynhVanTan_MinhPhu\LeThanhPhong_HuynhVanTan_MinhPhu\KTBuoi4\bin\Debug\KTBuoi4.pdb
+D:\LeThanhPhong_HuynhVanTan_MinhPhu\LeThanhPhong_HuynhVanTan_MinhPhu\KTBuoi4\obj\Debug\KTBuoi4.csproj.AssemblyReference.cache
+D:\LeThanhPhong_HuynhVanTan_MinhPhu\LeThanhPhong_HuynhVanTan_MinhPhu\KTBuoi4\obj\Debug\KTBuoi4.csproj.SuggestedBindingRedirects.cache
+D:\LeThanhPhong_HuynhVanTan_MinhPhu\LeThanhPhong_HuynhVanTan_MinhPhu\KTBuoi4\obj\Debug\KTBuoi4.Form1.resources
+D:\LeThanhPhong_HuynhVanTan_MinhPhu\LeThanhPhong_HuynhVanTan_MinhPhu\KTBuoi4\obj\Debug\KTBuoi4.Properties.Resources.resources
+D:\LeThanhPhong_HuynhVanTan_MinhPhu\LeThanhPhong_HuynhVanTan_MinhPhu\KTBuoi4\obj\Debug\KTBuoi4.csproj.GenerateResource.cache
+D:\LeThanhPhong_HuynhVanTan_MinhPhu\LeThanhPhong_HuynhVanTan_MinhPhu\KTBuoi4\obj\Debug\KTBuoi4.csproj.CoreCompileInputs.cache
+D:\LeThanhPhong_HuynhVanTan_MinhPhu\LeThanhPhong_HuynhVanTan_MinhPhu\KTBuoi4\obj\Debug\KTBuoi4.exe
+D:\LeThanhPhong_HuynhVanTan_MinhPhu\LeThanhPhong_HuynhVanTan_MinhPhu\KTBuoi4\obj\Debug\KTBuoi4.pdb
+D:\LeThanhPhong_HuynhVanTan_MinhPhu\LeThanhPhong_HuynhVanTan_MinhPhu\KTBuoi4\obj\Debug\KTBuoi4.FormDangNhap.resources
